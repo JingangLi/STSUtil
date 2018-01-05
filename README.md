@@ -12,6 +12,7 @@ STSConsumer:
 [Ribbon]
 java -jar STSRibbon-0.0.1-SNAPSHOT.jar
 [Feign]
+java -jar STSFeignConsumer-0.0.1-SNAPSHOT.jar
 
 STSHystrixDashboard:
 java -jar STSHystrixDashboard-0.0.1-SNAPSHOT.jar
